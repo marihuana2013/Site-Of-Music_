@@ -16,7 +16,7 @@ a{
 
 .colocol{
     position: absolute;
-    right: 100px;
+    right: 1px;
 }
 
 .menu{
@@ -30,11 +30,13 @@ a{
 p{
     font-size: 25px;
     color: white;
+    text-align: center;
 }
 
 h2{
     background-color: #8C7AC3;
     padding: 30px;
+    text-align: center;
 }
 
 .zyb{
